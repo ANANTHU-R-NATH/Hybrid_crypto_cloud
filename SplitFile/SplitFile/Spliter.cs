@@ -280,7 +280,7 @@ namespace SplitFile
                 RemainingSize = RemainingSize - tempInt;
                 txtRemainingSize.Text = RemainingSize.ToString();
 
-                string StartByte = "1", EndByte = txtPartSize.Text;
+                string StartByte = "1", EndByte = tempInt+"";
 
                 if (lstParts.Items.Count != 0)
                 {
