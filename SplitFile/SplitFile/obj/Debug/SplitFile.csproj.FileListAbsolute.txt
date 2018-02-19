@@ -1,0 +1,9 @@
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\bin\SplitFile.exe
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\bin\SplitFile.pdb
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.csprojResolveAssemblyReference.cache
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.About.resources
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.ShutDown.resources
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.Spliter.resources
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.csproj.GenerateResource.Cache
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.exe
+C:\Users\Ananthu\Downloads\SplitFile\SplitFile\obj\Debug\SplitFile.pdb
